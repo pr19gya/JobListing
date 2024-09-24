@@ -44,9 +44,7 @@ The following key dependencies are used in this project:
 
 To see the full list of dependencies, check the `pom.xml` file.
 
-## Configuration
 
-The application uses the following configurations in the `application.properties` file:
 
 
 
